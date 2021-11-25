@@ -1,0 +1,16 @@
+/home/eebboo/Documents/C#/Super_Market/bin/Debug/net5.0/Super_Market
+/home/eebboo/Documents/C#/Super_Market/bin/Debug/net5.0/Super_Market.deps.json
+/home/eebboo/Documents/C#/Super_Market/bin/Debug/net5.0/Super_Market.runtimeconfig.json
+/home/eebboo/Documents/C#/Super_Market/bin/Debug/net5.0/Super_Market.runtimeconfig.dev.json
+/home/eebboo/Documents/C#/Super_Market/bin/Debug/net5.0/Super_Market.dll
+/home/eebboo/Documents/C#/Super_Market/bin/Debug/net5.0/ref/Super_Market.dll
+/home/eebboo/Documents/C#/Super_Market/bin/Debug/net5.0/Super_Market.pdb
+/home/eebboo/Documents/C#/Super_Market/obj/Debug/net5.0/Super_Market.csproj.AssemblyReference.cache
+/home/eebboo/Documents/C#/Super_Market/obj/Debug/net5.0/Super_Market.GeneratedMSBuildEditorConfig.editorconfig
+/home/eebboo/Documents/C#/Super_Market/obj/Debug/net5.0/Super_Market.AssemblyInfoInputs.cache
+/home/eebboo/Documents/C#/Super_Market/obj/Debug/net5.0/Super_Market.AssemblyInfo.cs
+/home/eebboo/Documents/C#/Super_Market/obj/Debug/net5.0/Super_Market.csproj.CoreCompileInputs.cache
+/home/eebboo/Documents/C#/Super_Market/obj/Debug/net5.0/Super_Market.dll
+/home/eebboo/Documents/C#/Super_Market/obj/Debug/net5.0/ref/Super_Market.dll
+/home/eebboo/Documents/C#/Super_Market/obj/Debug/net5.0/Super_Market.pdb
+/home/eebboo/Documents/C#/Super_Market/obj/Debug/net5.0/Super_Market.genruntimeconfig.cache
